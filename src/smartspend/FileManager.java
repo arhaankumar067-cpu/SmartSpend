@@ -3,7 +3,6 @@ package smartspend;
 import java.io.*;
 import java.time.LocalDate;
 import java.util.ArrayList;
-
 public class FileManager {
 
     private static final String FILE_PATH = "data/expenses.csv";
